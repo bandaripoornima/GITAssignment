@@ -21,5 +21,6 @@ public class GITAssignment
         System.out.println("Bhargav Peddapudi");
         System.out.println("Mounic Sai Ram Chimmiri");
         System.out.println("Siddhartha Kantipudi");
+        System.out.println("Srujan Yaparthi");
     }
 }
