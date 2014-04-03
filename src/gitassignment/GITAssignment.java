@@ -17,5 +17,6 @@ public class GITAssignment {
         // TODO code application logic here
         System.out.println("Ram Prasad Jayini");
         System.out.println("MB Bharadwaj");
+        System.out.println("Bhargav Peddapudi");
     }
 }
