@@ -8,7 +8,8 @@ package gitassignment;
  *
  * @author Poornima Bandari
  */
-public class GITAssignment {
+public class GITAssignment
+{
 
     /**
      * @param args the command line arguments
@@ -19,5 +20,6 @@ public class GITAssignment {
         System.out.println("MB Bharadwaj");
         System.out.println("Bhargav Peddapudi");
         System.out.println("Mounic Sai Ram Chimmiri");
+        System.out.println("Siddhartha Kantipudi");
     }
 }
