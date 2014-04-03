@@ -34,5 +34,6 @@ public class GITAssignment
         System.out.println("Karthik");
         System.out.println("Gowtham");
         System.out.println("Namitha");
+        System.out.println("Tejaswi");
     }
 }
