@@ -24,5 +24,6 @@ public class GITAssignment
         System.out.println("Srujan Yaparthi");
         System.out.println("Chaitanya");
         System.out.println("Pavan");
+        System.out.println("Arpita");
     }
 }
